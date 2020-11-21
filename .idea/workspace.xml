@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="" />
+    <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +49,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RSettingsProjectConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -87,22 +90,26 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="111" y="90" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1605933644874" />
-    <state width="1099" height="205" key="GridCell.Tab.0.bottom" timestamp="1605934229414">
+    <state width="1078" height="205" key="GridCell.Tab.0.bottom" timestamp="1605934368769">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state width="1099" height="205" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1605934229414" />
-    <state width="1099" height="205" key="GridCell.Tab.0.center" timestamp="1605934229413">
+    <state width="1078" height="205" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1605934368769" />
+    <state width="1078" height="205" key="GridCell.Tab.0.center" timestamp="1605934368767">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state width="1099" height="205" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1605934229413" />
-    <state width="1099" height="205" key="GridCell.Tab.0.left" timestamp="1605934229412">
+    <state width="1078" height="205" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1605934368767" />
+    <state width="1078" height="205" key="GridCell.Tab.0.left" timestamp="1605934368767">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state width="1099" height="205" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1605934229412" />
-    <state width="1099" height="205" key="GridCell.Tab.0.right" timestamp="1605934229413">
+    <state width="1078" height="205" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1605934368767" />
+    <state width="1078" height="205" key="GridCell.Tab.0.right" timestamp="1605934368768">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state width="1099" height="205" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1605934229413" />
+    <state width="1078" height="205" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1605934368768" />
+    <state x="61" y="154" key="SettingsEditor" timestamp="1605934240382">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="61" y="154" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1605934240382" />
     <state width="500" height="400" key="SwitcherDM" timestamp="1605934195384">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
@@ -111,9 +118,9 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1605933647862" />
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605933444744">
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605952160952">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605933444744" />
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605952160952" />
   </component>
 </project>
