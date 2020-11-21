@@ -1,9 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,6 +61,7 @@
       </RecentBranches>
     </option>
   </component>
+  <component name="JupyterTrust" id="3ae6fd2e-0a0b-4a62-a450-c84f035a9d9c" />
   <component name="ProjectId" id="1kaKgN3mpz5Sg7X5aeZ0PekbbYU" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -58,6 +75,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -158,8 +176,18 @@
       <option name="project" value="LOCAL" />
       <updated>1605955644770</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="1.txt를 test.txt로 이름바꿈 &#10;민재 보지">
+      <created>1605956382972</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605956382972</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -171,13 +199,24 @@
       </list>
     </option>
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="종수가 수정&#10;동물에 사자 추가&#10;사람에 종수 추가" />
     <MESSAGE value="종수가 수정&#10;&#10;동물에 고양이로 변경 &#10;사람에 호열이로 변경" />
-    <MESSAGE value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
     <MESSAGE value="전체적인 수정" />
     <MESSAGE value="전체적인 수정 및 파일추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="전체적인 수정 및 파일추가" />
+    <MESSAGE value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
   </component>
   <component name="WindowStateProjectService">
     <state x="266" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605955568308">
