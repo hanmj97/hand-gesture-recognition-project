@@ -23,9 +23,11 @@ Produce programs that can perform various functions through motion recognition u
 
 
 
+## 2. Using Tools
+Python(Pycham), Github, Opencv..
 
 
-## 2. 팀 소개
+## 3. 팀 소개
       
       
       - 한민재
