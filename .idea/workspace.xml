@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +51,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="zielu.svntoolbox.prj.config" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -100,7 +100,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605953581490</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1.txt를 test.txt로 이름바꿈 &#10;민재 보지">
+      <created>1605954692452</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605954692452</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -116,13 +123,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="종수가 수정&#10;동물에 사자 추가&#10;사람에 종수 추가" />
     <MESSAGE value="종수가 수정&#10;&#10;동물에 고양이로 변경 &#10;사람에 호열이로 변경" />
-    <option name="LAST_COMMIT_MESSAGE" value="종수가 수정&#10;&#10;동물에 고양이로 변경 &#10;사람에 호열이로 변경" />
+    <MESSAGE value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="602" y="116" key="CommitChangelistDialog2" timestamp="1605953581295">
+    <state x="602" y="95" key="CommitChangelistDialog2" timestamp="1605954692242">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="602" y="116" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1605953581295" />
+    <state x="602" y="95" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1605954692242" />
     <state width="1078" height="205" key="GridCell.Tab.0.bottom" timestamp="1605952758564">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
@@ -139,21 +147,25 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="1078" height="205" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1605952758564" />
-    <state x="199" y="143" key="SettingsEditor" timestamp="1605954407694">
+    <state x="199" y="143" key="SettingsEditor" timestamp="1605954953845">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="199" y="143" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1605954407694" />
+    <state x="199" y="143" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1605954953845" />
     <state width="500" height="400" key="SwitcherDM" timestamp="1605934195384">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state width="500" height="400" key="SwitcherDM/0.23.1680.984@0.23.1680.984" timestamp="1605934195384" />
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2" timestamp="1605953596447">
+    <state x="262" y="202" key="VCS.ChangeListViewerDialog" timestamp="1605955186568">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1605953596447" />
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605954420904">
+    <state x="262" y="202" key="VCS.ChangeListViewerDialog/0.23.1680.984@0.23.1680.984" timestamp="1605955186568" />
+    <state x="160" y="255" key="Vcs.Push.Dialog.v2" timestamp="1605954694905">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605954420904" />
+    <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1605954694905" />
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605955342099">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605955342099" />
   </component>
 </project>
