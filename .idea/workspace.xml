@@ -3,12 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -40,10 +46,14 @@
     </option>
   </component>
   <component name="ProjectId" id="1kaKgN3mpz5Sg7X5aeZ0PekbbYU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
@@ -134,7 +144,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605954692452</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="전체적인 수정">
+      <created>1605955371205</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955371205</updated>
+    </task>
+    <task id="LOCAL-00005" summary="전체적인 수정 및 파일추가">
+      <created>1605955644770</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605955644770</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -151,13 +175,19 @@
     <MESSAGE value="종수가 수정&#10;동물에 사자 추가&#10;사람에 종수 추가" />
     <MESSAGE value="종수가 수정&#10;&#10;동물에 고양이로 변경 &#10;사람에 호열이로 변경" />
     <MESSAGE value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.txt를 test.txt로 이름바꿈 &#10;민재 보지" />
+    <MESSAGE value="전체적인 수정" />
+    <MESSAGE value="전체적인 수정 및 파일추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="전체적인 수정 및 파일추가" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="602" y="95" key="CommitChangelistDialog2" timestamp="1605954692242">
+    <state x="266" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605955568308">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="602" y="95" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1605954692242" />
+    <state x="266" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.984@0.23.1680.984" timestamp="1605955568308" />
+    <state x="602" y="95" key="CommitChangelistDialog2" timestamp="1605955644595">
+      <screen x="0" y="23" width="1680" height="984" />
+    </state>
+    <state x="602" y="95" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1605955644595" />
     <state width="1078" height="205" key="GridCell.Tab.0.bottom" timestamp="1605952758564">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
@@ -186,13 +216,13 @@
       <screen x="0" y="23" width="1680" height="984" />
     </state>
     <state x="262" y="202" key="VCS.ChangeListViewerDialog/0.23.1680.984@0.23.1680.984" timestamp="1605955186568" />
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2" timestamp="1605954694905">
+    <state x="160" y="255" key="Vcs.Push.Dialog.v2" timestamp="1605955646157">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1605954694905" />
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605955342099">
+    <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1605955646157" />
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605955632342">
       <screen x="0" y="23" width="1680" height="984" />
     </state>
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605955342099" />
+    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1605955632342" />
   </component>
 </project>
