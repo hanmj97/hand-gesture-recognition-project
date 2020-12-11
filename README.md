@@ -4,7 +4,7 @@
 
 # 1. Project Objectives
     Produce programs that can perform various functions through motion recognition using cam and improve understanding of Python
-    
+
 
 # 2. Requirements
 

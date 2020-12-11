@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed3a92bb-b11b-4ad5-a1c7-813041036512" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,7 +166,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606053923223</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="README 수정">
+      <created>1606054368219</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606054368219</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -186,55 +194,5 @@
     <MESSAGE value="전체적인 수정 및 파일추가" />
     <MESSAGE value="README 수정" />
     <option name="LAST_COMMIT_MESSAGE" value="README 수정" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="266" y="324" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1605955568308">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="266" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.984@0.23.1680.984" timestamp="1605955568308" />
-    <state x="602" y="95" key="CommitChangelistDialog2" timestamp="1606053923094">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="602" y="95" key="CommitChangelistDialog2/0.23.1680.984@0.23.1680.984" timestamp="1606053923094" />
-    <state width="1078" height="205" key="GridCell.Tab.0.bottom" timestamp="1605952758564">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state width="1078" height="205" key="GridCell.Tab.0.bottom/0.23.1680.984@0.23.1680.984" timestamp="1605952758564" />
-    <state width="1078" height="205" key="GridCell.Tab.0.center" timestamp="1605952758563">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state width="1078" height="205" key="GridCell.Tab.0.center/0.23.1680.984@0.23.1680.984" timestamp="1605952758563" />
-    <state width="1078" height="205" key="GridCell.Tab.0.left" timestamp="1605952758563">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state width="1078" height="205" key="GridCell.Tab.0.left/0.23.1680.984@0.23.1680.984" timestamp="1605952758563" />
-    <state width="1078" height="205" key="GridCell.Tab.0.right" timestamp="1605952758564">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state width="1078" height="205" key="GridCell.Tab.0.right/0.23.1680.984@0.23.1680.984" timestamp="1605952758564" />
-    <state x="230" y="242" key="RollbackChangesDialog" timestamp="1605956617503">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="230" y="242" key="RollbackChangesDialog/0.23.1680.984@0.23.1680.984" timestamp="1605956617503" />
-    <state x="199" y="143" key="SettingsEditor" timestamp="1606053269402">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="199" y="143" key="SettingsEditor/0.23.1680.984@0.23.1680.984" timestamp="1606053269402" />
-    <state width="500" height="400" key="SwitcherDM" timestamp="1605934195384">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state width="500" height="400" key="SwitcherDM/0.23.1680.984@0.23.1680.984" timestamp="1605934195384" />
-    <state x="262" y="202" key="VCS.ChangeListViewerDialog" timestamp="1605955186568">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="262" y="202" key="VCS.ChangeListViewerDialog/0.23.1680.984@0.23.1680.984" timestamp="1605955186568" />
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2" timestamp="1606053928027">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="160" y="255" key="Vcs.Push.Dialog.v2/0.23.1680.984@0.23.1680.984" timestamp="1606053928027" />
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606054361347">
-      <screen x="0" y="23" width="1680" height="984" />
-    </state>
-    <state x="358" y="436" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.984@0.23.1680.984" timestamp="1606054361347" />
   </component>
 </project>
